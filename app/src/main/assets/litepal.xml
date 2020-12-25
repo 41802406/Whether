@@ -1,0 +1,12 @@
+<litepal>
+
+    <dbname value="whether"/>
+
+    <version value="1" />
+
+    <list>
+        <mapping class="com.example.whether.db.Province"/>
+        <mapping class="com.example.whether.db.City"/>
+        <mapping class="com.example.whether.db.County"/>
+    </list>
+</litepal>
